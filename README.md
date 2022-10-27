@@ -1,5 +1,5 @@
 <p float="left">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=securenai&count_private=true&show_icons=true&theme=tokyonight">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=securenai&count_private=true&show_icons=true&theme=tokyonight">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=securenai&layout=compact&theme=tokyonight">
 </p>
 
