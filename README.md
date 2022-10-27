@@ -1,6 +1,6 @@
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=securenai&count_private=true&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=securenai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=securenai&layout=compact&theme=tokyonight">
 </p>
 
 <!--
