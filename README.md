@@ -1,4 +1,4 @@
-<p align = "center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=securenai&count_private=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=securenai&layout=compact&theme=tokyonight">
 </p>
