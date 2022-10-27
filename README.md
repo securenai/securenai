@@ -1,5 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=securenai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![securenai's GitHub stats](https://github-readme-stats.vercel.app/api?username=securenai&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=securenai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **securenai/securenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
